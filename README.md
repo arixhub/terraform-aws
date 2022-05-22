@@ -1,1 +1,1 @@
-# terraform-aws
+# Terraform template for AWS
